@@ -1,0 +1,4 @@
+model_checkpoint_path: "test_it30k.ckpt"
+all_model_checkpoint_paths: "test_it10k.ckpt"
+all_model_checkpoint_paths: "test_it20k.ckpt"
+all_model_checkpoint_paths: "test_it30k.ckpt"
